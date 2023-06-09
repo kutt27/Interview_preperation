@@ -58,7 +58,7 @@ Contributions to this repository are welcome! If you have additional implementat
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code within this repository. Refer to the license file for more details.
+This repository is licensed under the [Creative Commons Zero v1.0 Universal](LICENSE). You are free to use, modify, and distribute the code within this repository. Refer to the license file for more details.
 
 ---
 
