@@ -5,4 +5,4 @@ public class BoilerPlate {
     }
 }
 
-// This code should be written for any java file. This code is known as 'Boilder Plate Code'
+// This code should be written for any java file. Therefore it's called as boiler plate code
